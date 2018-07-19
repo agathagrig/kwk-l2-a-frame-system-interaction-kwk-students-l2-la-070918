@@ -91,3 +91,5 @@ AFRAME.registerSystem('game', {
   },
 
 })
+ spawnBall()
+ GAME.spawnBall()

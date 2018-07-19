@@ -4,6 +4,6 @@ class Thunderdome {
     this.el.setAttribute("src", "../assets/wall-texture.jpg")
     this.el.setAttribute("radius", 30)
     this.el.object3D.position.set({x: 0, y: 0, z: 0})
-    this.el.setAttribute("material", "side: back; color: yellow")
+    this.el.setAttribute("material", "side: back; color: #ECA6DF")
   }
 }
